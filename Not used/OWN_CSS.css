@@ -1,0 +1,43 @@
+body{
+    font-family: serif;
+    background-color: #808080;
+}
+h1{ /*"Sam Zandiasadabadi"*/
+    color: #FFD700;
+    font: bold, Helvetica, Arial, Sans-Serif;
+   text-shadow: 1px 3px #fe4902, 
+                1px 3px #fe4902, 
+                1px 3px #fe4902;
+} 
+/*RESUME PAGE*/
+
+#objective{
+    font:bold, Helvetica, Arial, Sans-Serif;
+    color: #EE3B3B;
+    text-shadow: 1px 1px #8B0000,
+                 1px 1px #8B0000,
+                 1px 2px #8B0000;
+}
+#education{
+    font:bold, Helvetica, Arial, Sans-Serif;
+    color: #EE3B3B;
+    text-shadow: 1px 1px #8B0000,
+                 1px 1px #8B0000,
+                 1px 2px #8B0000;
+}
+#extera_activities{
+    font:bold, Helvetica, Arial, Sans-Serif;
+    color: #EE3B3B;
+    text-shadow: 1px 1px #8B0000,
+                 1px 1px #8B0000,
+                 1px 2px #8B0000;
+}
+#skills{
+    font:bold, Helvetica, Arial, Sans-Serif;
+    color: #EE3B3B;
+    text-shadow: 1px 1px #8B0000,
+                 1px 1px #8B0000,
+                 1px 2px #8B0000;
+}
+/*ABOUT ME PAGE*/
+
